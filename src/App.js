@@ -79,7 +79,7 @@ const sampleRecipes = [
     name: 'chicken',
     servings: 3,
     cookTime: '1:23',
-    instructions: '1) Fuck you\n2) Fuck you too buddy!',
+    instructions: '1) add chicken\n2) add more chicken buddy!',
     ingredients: [
       {
         id: 1,
@@ -88,7 +88,7 @@ const sampleRecipes = [
       },
       {
         id: 2,
-        name: 'butt stuff',
+        name: 'stuff',
         amount: '99 cups'
       }
     ]
@@ -98,16 +98,16 @@ const sampleRecipes = [
     name: 'pasta',
     servings: 99,
     cookTime: '9:23',
-    instructions: '1) Fuck me\n2) Fuck me twice!',
+    instructions: '1) add pasta\n2) add water!',
     ingredients: [
       {
         id: 1,
-        name: 'fuck off',
+        name: 'pasta',
         amount: '1 cup'
       },
       {
         id: 2,
-        name: 'suck it',
+        name: 'even more water',
         amount: '100 cups'
       }
     ]
